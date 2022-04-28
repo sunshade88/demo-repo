@@ -4,6 +4,6 @@ practicing git and github
 
 ## 2nd change
 
-### 3rd change
+## Local Development
 
-some changes
+1. Open index.html in your browser.
